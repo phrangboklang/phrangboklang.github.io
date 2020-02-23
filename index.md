@@ -1,7 +1,5 @@
 ## Courses for the Current Semester
 
-> Design and Analysis of Algorithms
-    > Syllabus
-    > Course plan
+1. Design and Analysis of Algorithms
 2. Software Engineering
 3. Cloud Computing
